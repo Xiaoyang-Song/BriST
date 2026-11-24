@@ -1,0 +1,14 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+runs/
+hf_cache/
+
+
+reference/
+
+*.pt
+*.npy
+*.json
+*.log
